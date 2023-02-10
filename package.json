@@ -1,0 +1,17 @@
+{
+  "name": "micro-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "microdata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-entities": "^2.3.3",
+    "jsdom": "^21.1.0",
+    "node-html-parser": "^6.1.4"
+  }
+}
