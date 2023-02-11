@@ -1,4 +1,4 @@
-import { microdataQuickParse, microdataParseJSDOM } from "./microdata";
+import { microdataQuickParse, microdataParseJSDOM } from "./microdata.js";
 export default function microdataParse(html, options) {
   if (options) {
     return microdataParseJSDOM(html, options);
